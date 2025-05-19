@@ -1,0 +1,2402 @@
+[
+  {
+    "input": "Summarize the following note:\nA 39-year-old female with a history of hypertension presents with fever. Treated with statins. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with hypertension, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 36-year-old male with a history of stroke presents with cough. Treated with statins. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with stroke, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 75-year-old female with a history of asthma presents with fever. Treated with ACE inhibitors. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with asthma, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 41-year-old male with a history of asthma presents with cough. Treated with insulin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with asthma, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 81-year-old male with a history of hypertension presents with cough. Treated with oxygen. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypertension, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 39-year-old male with a history of diabetes presents with fatigue. Treated with oxygen. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with diabetes, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 61-year-old male with a history of hypothyroidism presents with nausea. Treated with insulin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with hypothyroidism, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 67-year-old female with a history of diabetes presents with fever. Treated with antibiotics. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with diabetes, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 43-year-old male with a history of renal failure presents with headache. Treated with insulin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with renal failure, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 69-year-old male with a history of hypertension presents with shortness of breath. Treated with ACE inhibitors. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with hypertension, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 38-year-old female with a history of hypothyroidism presents with weight loss. Treated with antibiotics. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with hypothyroidism, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 46-year-old male with a history of heart failure presents with chest pain. Treated with oxygen. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with heart failure, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 85-year-old male with a history of stroke presents with nausea. Treated with statins. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with stroke, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 33-year-old male with a history of COPD presents with weight loss. Treated with oxygen. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with COPD, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 72-year-old male with a history of diabetes presents with cough. Treated with aspirin. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with diabetes, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 54-year-old female with a history of sepsis presents with fever. Treated with statins. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with sepsis, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 64-year-old female with a history of hypothyroidism presents with chest pain. Treated with insulin. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with hypothyroidism, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 60-year-old female with a history of COPD presents with dizziness. Treated with diuretics. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with COPD, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 46-year-old female with a history of asthma presents with dizziness. Treated with statins. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with asthma, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 64-year-old male with a history of hypertension presents with headache. Treated with metformin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with hypertension, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 76-year-old female with a history of hypertension presents with weight loss. Treated with oxygen. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with hypertension, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 69-year-old male with a history of COPD presents with weight loss. Treated with aspirin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with COPD, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 61-year-old female with a history of sepsis presents with fever. Treated with statins. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with sepsis, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 44-year-old male with a history of renal failure presents with chest pain. Treated with insulin. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with renal failure, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 49-year-old male with a history of sepsis presents with chest pain. Treated with ACE inhibitors. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with sepsis, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 81-year-old female with a history of heart failure presents with fatigue. Treated with statins. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with heart failure, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 78-year-old male with a history of stroke presents with headache. Treated with insulin. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with stroke, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 46-year-old female with a history of COPD presents with cough. Treated with ACE inhibitors. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with COPD, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 74-year-old female with a history of asthma presents with fever. Treated with oxygen. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with asthma, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 67-year-old male with a history of hypertension presents with fatigue. Treated with statins. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with hypertension, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 45-year-old female with a history of heart failure presents with headache. Treated with ACE inhibitors. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with heart failure, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 69-year-old male with a history of renal failure presents with confusion. Treated with ACE inhibitors. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with renal failure, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 63-year-old female with a history of COPD presents with headache. Treated with aspirin. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with COPD, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 40-year-old female with a history of pneumonia presents with cough. Treated with metformin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with pneumonia, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 52-year-old male with a history of hypothyroidism presents with shortness of breath. Treated with oxygen. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with hypothyroidism, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 28-year-old male with a history of sepsis presents with fatigue. Treated with oxygen. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with sepsis, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 63-year-old male with a history of hypertension presents with chest pain. Treated with diuretics. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypertension, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 25-year-old male with a history of hypertension presents with dizziness. Treated with ACE inhibitors. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with hypertension, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 59-year-old male with a history of diabetes presents with weight loss. Treated with insulin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with diabetes, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 25-year-old female with a history of pneumonia presents with chest pain. Treated with statins. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with pneumonia, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 53-year-old male with a history of hypothyroidism presents with shortness of breath. Treated with metformin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypothyroidism, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 56-year-old male with a history of hypertension presents with nausea. Treated with insulin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypertension, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 43-year-old male with a history of pneumonia presents with cough. Treated with insulin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with pneumonia, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 73-year-old female with a history of COPD presents with shortness of breath. Treated with insulin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with COPD, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 50-year-old female with a history of hypertension presents with cough. Treated with statins. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypertension, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 25-year-old female with a history of hypertension presents with chest pain. Treated with antibiotics. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypertension, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 28-year-old male with a history of sepsis presents with fatigue. Treated with insulin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with sepsis, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 67-year-old male with a history of sepsis presents with fever. Treated with insulin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with sepsis, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 48-year-old male with a history of hypothyroidism presents with cough. Treated with aspirin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with hypothyroidism, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 45-year-old male with a history of diabetes presents with headache. Treated with metformin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with diabetes, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 58-year-old female with a history of hypothyroidism presents with weight loss. Treated with aspirin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with hypothyroidism, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 78-year-old female with a history of sepsis presents with shortness of breath. Treated with diuretics. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with sepsis, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 52-year-old male with a history of diabetes presents with headache. Treated with statins. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with diabetes, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 74-year-old male with a history of asthma presents with cough. Treated with antibiotics. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with asthma, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 69-year-old female with a history of stroke presents with weight loss. Treated with metformin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with stroke, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 62-year-old male with a history of stroke presents with shortness of breath. Treated with ACE inhibitors. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with stroke, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 52-year-old male with a history of sepsis presents with fatigue. Treated with aspirin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with sepsis, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 62-year-old male with a history of hypothyroidism presents with fatigue. Treated with antibiotics. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypothyroidism, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 67-year-old female with a history of hypertension presents with shortness of breath. Treated with insulin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypertension, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 42-year-old male with a history of diabetes presents with nausea. Treated with aspirin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with diabetes, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 67-year-old male with a history of renal failure presents with weight loss. Treated with metformin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with renal failure, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 52-year-old female with a history of asthma presents with confusion. Treated with diuretics. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with asthma, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 41-year-old male with a history of hypertension presents with cough. Treated with antibiotics. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with hypertension, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 41-year-old female with a history of diabetes presents with dizziness. Treated with aspirin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with diabetes, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 31-year-old female with a history of hypothyroidism presents with fever. Treated with statins. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with hypothyroidism, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 47-year-old female with a history of renal failure presents with cough. Treated with aspirin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with renal failure, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 43-year-old male with a history of stroke presents with cough. Treated with aspirin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with stroke, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 64-year-old male with a history of stroke presents with dizziness. Treated with aspirin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with stroke, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 78-year-old male with a history of hypertension presents with fatigue. Treated with statins. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypertension, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 74-year-old female with a history of pneumonia presents with headache. Treated with diuretics. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with pneumonia, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 62-year-old male with a history of hypertension presents with headache. Treated with antibiotics. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with hypertension, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 77-year-old female with a history of heart failure presents with cough. Treated with ACE inhibitors. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with heart failure, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 77-year-old male with a history of COPD presents with cough. Treated with ACE inhibitors. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with COPD, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 74-year-old female with a history of sepsis presents with cough. Treated with insulin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with sepsis, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 80-year-old male with a history of stroke presents with headache. Treated with insulin. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with stroke, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 35-year-old male with a history of diabetes presents with cough. Treated with antibiotics. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with diabetes, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 69-year-old female with a history of diabetes presents with fatigue. Treated with metformin. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with diabetes, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 64-year-old male with a history of pneumonia presents with dizziness. Treated with oxygen. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with pneumonia, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 39-year-old female with a history of renal failure presents with cough. Treated with insulin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with renal failure, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 78-year-old male with a history of asthma presents with headache. Treated with oxygen. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with asthma, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 76-year-old female with a history of sepsis presents with cough. Treated with aspirin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with sepsis, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 39-year-old female with a history of sepsis presents with dizziness. Treated with oxygen. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with sepsis, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 84-year-old female with a history of pneumonia presents with weight loss. Treated with oxygen. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with pneumonia, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 28-year-old female with a history of renal failure presents with dizziness. Treated with ACE inhibitors. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with renal failure, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 65-year-old male with a history of renal failure presents with cough. Treated with diuretics. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with renal failure, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 78-year-old female with a history of renal failure presents with nausea. Treated with metformin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with renal failure, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 54-year-old female with a history of sepsis presents with nausea. Treated with aspirin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with sepsis, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 36-year-old female with a history of hypothyroidism presents with shortness of breath. Treated with statins. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypothyroidism, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 66-year-old male with a history of sepsis presents with confusion. Treated with ACE inhibitors. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with sepsis, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 53-year-old male with a history of sepsis presents with nausea. Treated with aspirin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with sepsis, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 56-year-old male with a history of asthma presents with nausea. Treated with insulin. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with asthma, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 61-year-old female with a history of COPD presents with shortness of breath. Treated with aspirin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with COPD, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 78-year-old male with a history of asthma presents with nausea. Treated with insulin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with asthma, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 57-year-old female with a history of sepsis presents with weight loss. Treated with oxygen. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with sepsis, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 63-year-old male with a history of pneumonia presents with shortness of breath. Treated with insulin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with pneumonia, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 28-year-old female with a history of pneumonia presents with headache. Treated with statins. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with pneumonia, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 55-year-old male with a history of hypothyroidism presents with dizziness. Treated with diuretics. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with hypothyroidism, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 81-year-old female with a history of diabetes presents with fever. Treated with metformin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with diabetes, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 56-year-old female with a history of asthma presents with chest pain. Treated with oxygen. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with asthma, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 28-year-old male with a history of COPD presents with weight loss. Treated with ACE inhibitors. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with COPD, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 67-year-old male with a history of renal failure presents with confusion. Treated with antibiotics. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with renal failure, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 79-year-old female with a history of COPD presents with shortness of breath. Treated with ACE inhibitors. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with COPD, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 48-year-old female with a history of asthma presents with fever. Treated with metformin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with asthma, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 46-year-old male with a history of heart failure presents with shortness of breath. Treated with oxygen. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with heart failure, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 67-year-old male with a history of asthma presents with confusion. Treated with oxygen. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with asthma, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 70-year-old female with a history of diabetes presents with nausea. Treated with metformin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with diabetes, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 63-year-old male with a history of heart failure presents with cough. Treated with ACE inhibitors. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with heart failure, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 68-year-old female with a history of stroke presents with shortness of breath. Treated with diuretics. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with stroke, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 74-year-old male with a history of diabetes presents with cough. Treated with aspirin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with diabetes, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 64-year-old male with a history of sepsis presents with fever. Treated with oxygen. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with sepsis, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 27-year-old female with a history of renal failure presents with chest pain. Treated with aspirin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with renal failure, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 37-year-old female with a history of asthma presents with nausea. Treated with diuretics. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with asthma, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 77-year-old female with a history of asthma presents with confusion. Treated with aspirin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with asthma, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 56-year-old male with a history of pneumonia presents with shortness of breath. Treated with oxygen. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with pneumonia, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 29-year-old male with a history of hypertension presents with nausea. Treated with statins. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypertension, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 78-year-old male with a history of diabetes presents with headache. Treated with oxygen. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with diabetes, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 73-year-old male with a history of sepsis presents with confusion. Treated with metformin. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with sepsis, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 64-year-old female with a history of renal failure presents with weight loss. Treated with antibiotics. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with renal failure, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 63-year-old male with a history of hypertension presents with chest pain. Treated with insulin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with hypertension, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 61-year-old female with a history of stroke presents with dizziness. Treated with antibiotics. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with stroke, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 42-year-old male with a history of renal failure presents with nausea. Treated with ACE inhibitors. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with renal failure, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 35-year-old male with a history of renal failure presents with headache. Treated with insulin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with renal failure, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 46-year-old male with a history of stroke presents with shortness of breath. Treated with ACE inhibitors. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with stroke, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 68-year-old male with a history of stroke presents with chest pain. Treated with diuretics. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with stroke, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 29-year-old male with a history of hypertension presents with dizziness. Treated with ACE inhibitors. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypertension, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 38-year-old female with a history of diabetes presents with chest pain. Treated with metformin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with diabetes, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 45-year-old female with a history of renal failure presents with confusion. Treated with insulin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with renal failure, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 38-year-old female with a history of sepsis presents with confusion. Treated with diuretics. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with sepsis, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 84-year-old male with a history of asthma presents with confusion. Treated with ACE inhibitors. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with asthma, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 25-year-old female with a history of pneumonia presents with fever. Treated with ACE inhibitors. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with pneumonia, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 56-year-old female with a history of stroke presents with weight loss. Treated with insulin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with stroke, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 49-year-old female with a history of stroke presents with confusion. Treated with insulin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with stroke, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 63-year-old male with a history of renal failure presents with confusion. Treated with oxygen. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with renal failure, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 38-year-old female with a history of diabetes presents with chest pain. Treated with insulin. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with diabetes, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 77-year-old female with a history of hypothyroidism presents with cough. Treated with oxygen. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypothyroidism, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 67-year-old female with a history of renal failure presents with fever. Treated with diuretics. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with renal failure, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 56-year-old male with a history of sepsis presents with weight loss. Treated with metformin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with sepsis, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 41-year-old female with a history of stroke presents with weight loss. Treated with insulin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with stroke, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 53-year-old male with a history of hypothyroidism presents with weight loss. Treated with antibiotics. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with hypothyroidism, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 33-year-old male with a history of heart failure presents with fatigue. Treated with metformin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with heart failure, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 34-year-old male with a history of sepsis presents with nausea. Treated with antibiotics. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with sepsis, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 40-year-old male with a history of asthma presents with shortness of breath. Treated with ACE inhibitors. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with asthma, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 44-year-old male with a history of diabetes presents with chest pain. Treated with ACE inhibitors. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with diabetes, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 58-year-old female with a history of renal failure presents with weight loss. Treated with ACE inhibitors. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with renal failure, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 59-year-old male with a history of heart failure presents with nausea. Treated with statins. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with heart failure, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 76-year-old male with a history of sepsis presents with cough. Treated with diuretics. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with sepsis, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 59-year-old male with a history of hypertension presents with fatigue. Treated with statins. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with hypertension, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 27-year-old female with a history of COPD presents with cough. Treated with statins. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with COPD, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 47-year-old female with a history of COPD presents with confusion. Treated with ACE inhibitors. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with COPD, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 30-year-old male with a history of stroke presents with shortness of breath. Treated with aspirin. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with stroke, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 51-year-old female with a history of asthma presents with fever. Treated with oxygen. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with asthma, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 59-year-old female with a history of diabetes presents with shortness of breath. Treated with ACE inhibitors. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with diabetes, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 25-year-old female with a history of heart failure presents with nausea. Treated with antibiotics. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with heart failure, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 33-year-old male with a history of renal failure presents with fever. Treated with metformin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with renal failure, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 74-year-old female with a history of hypothyroidism presents with nausea. Treated with diuretics. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with hypothyroidism, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 74-year-old female with a history of renal failure presents with fatigue. Treated with ACE inhibitors. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with renal failure, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 70-year-old male with a history of hypothyroidism presents with nausea. Treated with aspirin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with hypothyroidism, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 58-year-old female with a history of stroke presents with headache. Treated with diuretics. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with stroke, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 31-year-old male with a history of hypertension presents with headache. Treated with statins. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with hypertension, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 49-year-old female with a history of hypothyroidism presents with headache. Treated with aspirin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with hypothyroidism, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 56-year-old male with a history of hypertension presents with nausea. Treated with insulin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypertension, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 38-year-old male with a history of asthma presents with weight loss. Treated with diuretics. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with asthma, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 33-year-old male with a history of COPD presents with nausea. Treated with statins. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with COPD, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 54-year-old female with a history of heart failure presents with fever. Treated with insulin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with heart failure, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 41-year-old female with a history of hypothyroidism presents with chest pain. Treated with antibiotics. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with hypothyroidism, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 36-year-old male with a history of diabetes presents with shortness of breath. Treated with diuretics. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with diabetes, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 25-year-old female with a history of sepsis presents with chest pain. Treated with antibiotics. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with sepsis, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 63-year-old male with a history of stroke presents with nausea. Treated with diuretics. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with stroke, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 61-year-old male with a history of asthma presents with fever. Treated with oxygen. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with asthma, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 78-year-old female with a history of renal failure presents with fever. Treated with antibiotics. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with renal failure, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 64-year-old male with a history of hypothyroidism presents with headache. Treated with oxygen. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with hypothyroidism, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 54-year-old female with a history of COPD presents with fatigue. Treated with insulin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with COPD, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 59-year-old female with a history of stroke presents with weight loss. Treated with diuretics. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with stroke, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 29-year-old female with a history of COPD presents with nausea. Treated with aspirin. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with COPD, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 60-year-old male with a history of stroke presents with dizziness. Treated with statins. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with stroke, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 34-year-old male with a history of hypertension presents with nausea. Treated with aspirin. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with hypertension, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 60-year-old male with a history of heart failure presents with fatigue. Treated with aspirin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with heart failure, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 44-year-old female with a history of hypothyroidism presents with fatigue. Treated with ACE inhibitors. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with hypothyroidism, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 74-year-old female with a history of hypertension presents with nausea. Treated with statins. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with hypertension, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 46-year-old female with a history of stroke presents with confusion. Treated with statins. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with stroke, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 54-year-old male with a history of asthma presents with fatigue. Treated with aspirin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with asthma, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 49-year-old male with a history of hypertension presents with headache. Treated with oxygen. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with hypertension, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 54-year-old female with a history of stroke presents with fever. Treated with ACE inhibitors. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with stroke, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 85-year-old male with a history of diabetes presents with fever. Treated with antibiotics. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with diabetes, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 57-year-old female with a history of diabetes presents with confusion. Treated with statins. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with diabetes, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 34-year-old male with a history of hypertension presents with confusion. Treated with ACE inhibitors. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with hypertension, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 49-year-old female with a history of renal failure presents with chest pain. Treated with metformin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with renal failure, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 27-year-old male with a history of heart failure presents with dizziness. Treated with aspirin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with heart failure, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 45-year-old female with a history of diabetes presents with weight loss. Treated with antibiotics. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with diabetes, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 64-year-old male with a history of heart failure presents with cough. Treated with insulin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with heart failure, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 29-year-old male with a history of heart failure presents with chest pain. Treated with metformin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with heart failure, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 34-year-old female with a history of asthma presents with chest pain. Treated with insulin. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with asthma, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 54-year-old female with a history of hypertension presents with fatigue. Treated with aspirin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with hypertension, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 61-year-old male with a history of hypothyroidism presents with weight loss. Treated with statins. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with hypothyroidism, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 48-year-old male with a history of pneumonia presents with chest pain. Treated with antibiotics. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with pneumonia, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 74-year-old male with a history of pneumonia presents with headache. Treated with ACE inhibitors. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with pneumonia, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 56-year-old female with a history of hypertension presents with shortness of breath. Treated with insulin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypertension, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 28-year-old female with a history of diabetes presents with fever. Treated with statins. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with diabetes, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 58-year-old female with a history of asthma presents with confusion. Treated with diuretics. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with asthma, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 28-year-old male with a history of asthma presents with chest pain. Treated with ACE inhibitors. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with asthma, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 77-year-old male with a history of diabetes presents with fatigue. Treated with aspirin. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with diabetes, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 55-year-old male with a history of renal failure presents with headache. Treated with metformin. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with renal failure, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 62-year-old male with a history of COPD presents with weight loss. Treated with ACE inhibitors. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with COPD, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 80-year-old female with a history of heart failure presents with headache. Treated with aspirin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with heart failure, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 46-year-old male with a history of COPD presents with dizziness. Treated with insulin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with COPD, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 50-year-old male with a history of renal failure presents with chest pain. Treated with ACE inhibitors. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with renal failure, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 35-year-old male with a history of renal failure presents with fever. Treated with ACE inhibitors. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with renal failure, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 70-year-old male with a history of heart failure presents with confusion. Treated with diuretics. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with heart failure, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 84-year-old male with a history of sepsis presents with chest pain. Treated with antibiotics. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with sepsis, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 82-year-old female with a history of heart failure presents with fatigue. Treated with insulin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with heart failure, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 49-year-old female with a history of hypothyroidism presents with weight loss. Treated with diuretics. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with hypothyroidism, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 30-year-old male with a history of COPD presents with shortness of breath. Treated with antibiotics. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with COPD, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 78-year-old female with a history of hypertension presents with dizziness. Treated with statins. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypertension, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 53-year-old male with a history of pneumonia presents with nausea. Treated with metformin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with pneumonia, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 83-year-old male with a history of renal failure presents with fever. Treated with oxygen. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with renal failure, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 53-year-old female with a history of renal failure presents with fatigue. Treated with statins. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with renal failure, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 77-year-old female with a history of asthma presents with fatigue. Treated with diuretics. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with asthma, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 25-year-old female with a history of stroke presents with fever. Treated with statins. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with stroke, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 55-year-old female with a history of pneumonia presents with cough. Treated with ACE inhibitors. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with pneumonia, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 70-year-old female with a history of stroke presents with confusion. Treated with statins. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with stroke, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 71-year-old male with a history of COPD presents with confusion. Treated with statins. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with COPD, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 77-year-old male with a history of sepsis presents with dizziness. Treated with metformin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with sepsis, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 70-year-old female with a history of renal failure presents with cough. Treated with oxygen. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with renal failure, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 38-year-old male with a history of renal failure presents with headache. Treated with insulin. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with renal failure, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 40-year-old female with a history of COPD presents with shortness of breath. Treated with antibiotics. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with COPD, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 38-year-old male with a history of diabetes presents with fatigue. Treated with oxygen. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with diabetes, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 53-year-old female with a history of heart failure presents with confusion. Treated with insulin. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with heart failure, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 34-year-old male with a history of asthma presents with fever. Treated with insulin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with asthma, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 80-year-old female with a history of sepsis presents with dizziness. Treated with ACE inhibitors. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with sepsis, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 83-year-old female with a history of sepsis presents with shortness of breath. Treated with ACE inhibitors. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with sepsis, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 58-year-old female with a history of renal failure presents with headache. Treated with ACE inhibitors. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with renal failure, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 79-year-old male with a history of asthma presents with weight loss. Treated with statins. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with asthma, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 36-year-old male with a history of pneumonia presents with nausea. Treated with aspirin. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with pneumonia, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 43-year-old female with a history of sepsis presents with shortness of breath. Treated with aspirin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with sepsis, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 47-year-old female with a history of asthma presents with dizziness. Treated with aspirin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with asthma, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 73-year-old female with a history of COPD presents with fever. Treated with metformin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with COPD, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 31-year-old female with a history of sepsis presents with confusion. Treated with metformin. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with sepsis, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 80-year-old male with a history of renal failure presents with dizziness. Treated with insulin. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with renal failure, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 81-year-old female with a history of stroke presents with headache. Treated with diuretics. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with stroke, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 56-year-old male with a history of pneumonia presents with fever. Treated with antibiotics. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with pneumonia, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 56-year-old female with a history of COPD presents with cough. Treated with antibiotics. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with COPD, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 46-year-old male with a history of asthma presents with shortness of breath. Treated with oxygen. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with asthma, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 64-year-old female with a history of heart failure presents with weight loss. Treated with aspirin. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with heart failure, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 77-year-old male with a history of hypothyroidism presents with shortness of breath. Treated with ACE inhibitors. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with hypothyroidism, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 64-year-old male with a history of sepsis presents with shortness of breath. Treated with ACE inhibitors. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with sepsis, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 46-year-old male with a history of stroke presents with dizziness. Treated with metformin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with stroke, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 50-year-old female with a history of heart failure presents with confusion. Treated with insulin. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with heart failure, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 41-year-old female with a history of hypertension presents with confusion. Treated with diuretics. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypertension, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 41-year-old male with a history of asthma presents with chest pain. Treated with insulin. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with asthma, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 52-year-old female with a history of asthma presents with cough. Treated with insulin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with asthma, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 32-year-old male with a history of hypothyroidism presents with shortness of breath. Treated with insulin. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with hypothyroidism, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 29-year-old male with a history of diabetes presents with headache. Treated with metformin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with diabetes, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 44-year-old male with a history of renal failure presents with nausea. Treated with diuretics. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with renal failure, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 65-year-old female with a history of hypertension presents with fatigue. Treated with oxygen. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with hypertension, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 39-year-old female with a history of hypertension presents with fatigue. Treated with ACE inhibitors. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with hypertension, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 56-year-old male with a history of asthma presents with chest pain. Treated with antibiotics. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with asthma, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 27-year-old male with a history of diabetes presents with shortness of breath. Treated with oxygen. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with diabetes, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 63-year-old female with a history of pneumonia presents with weight loss. Treated with oxygen. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with pneumonia, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 74-year-old female with a history of heart failure presents with fatigue. Treated with oxygen. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with heart failure, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 64-year-old male with a history of renal failure presents with fever. Treated with aspirin. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with renal failure, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 46-year-old female with a history of stroke presents with weight loss. Treated with ACE inhibitors. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with stroke, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 78-year-old female with a history of asthma presents with weight loss. Treated with antibiotics. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with asthma, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 79-year-old male with a history of hypertension presents with fever. Treated with antibiotics. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with hypertension, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 61-year-old male with a history of renal failure presents with fever. Treated with oxygen. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with renal failure, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 66-year-old male with a history of heart failure presents with nausea. Treated with oxygen. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with heart failure, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 27-year-old male with a history of renal failure presents with dizziness. Treated with statins. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with renal failure, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 38-year-old female with a history of asthma presents with confusion. Treated with ACE inhibitors. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with asthma, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 38-year-old male with a history of sepsis presents with nausea. Treated with antibiotics. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with sepsis, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 34-year-old male with a history of asthma presents with weight loss. Treated with antibiotics. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with asthma, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 70-year-old male with a history of stroke presents with weight loss. Treated with insulin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with stroke, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 58-year-old female with a history of renal failure presents with headache. Treated with metformin. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with renal failure, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 27-year-old male with a history of diabetes presents with chest pain. Treated with metformin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with diabetes, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 27-year-old male with a history of COPD presents with nausea. Treated with ACE inhibitors. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with COPD, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 62-year-old male with a history of renal failure presents with headache. Treated with statins. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with renal failure, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 41-year-old female with a history of hypertension presents with fatigue. Treated with antibiotics. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with hypertension, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 84-year-old female with a history of asthma presents with confusion. Treated with oxygen. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with asthma, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 63-year-old female with a history of hypertension presents with dizziness. Treated with antibiotics. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with hypertension, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 52-year-old female with a history of sepsis presents with shortness of breath. Treated with statins. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with sepsis, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 34-year-old female with a history of renal failure presents with headache. Treated with antibiotics. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with renal failure, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 48-year-old male with a history of renal failure presents with confusion. Treated with antibiotics. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with renal failure, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 35-year-old male with a history of heart failure presents with headache. Treated with metformin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with heart failure, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 44-year-old female with a history of diabetes presents with dizziness. Treated with ACE inhibitors. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with diabetes, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 39-year-old female with a history of pneumonia presents with confusion. Treated with aspirin. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with pneumonia, treated with aspirin."
+  },
+  {
+    "input": "Summarize the following note:\nA 80-year-old male with a history of COPD presents with nausea. Treated with metformin. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with COPD, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 62-year-old female with a history of sepsis presents with confusion. Treated with antibiotics. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with sepsis, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 85-year-old female with a history of hypertension presents with cough. Treated with insulin. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with hypertension, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 54-year-old male with a history of pneumonia presents with dizziness. Treated with antibiotics. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with pneumonia, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 28-year-old male with a history of asthma presents with headache. Treated with ACE inhibitors. Final diagnosis: thyroid disorder.",
+    "output": "thyroid disorder in a patient with asthma, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 37-year-old male with a history of sepsis presents with nausea. Treated with antibiotics. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with sepsis, treated with antibiotics."
+  },
+  {
+    "input": "Summarize the following note:\nA 29-year-old male with a history of stroke presents with shortness of breath. Treated with diuretics. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with stroke, treated with diuretics."
+  },
+  {
+    "input": "Summarize the following note:\nA 53-year-old male with a history of COPD presents with dizziness. Treated with ACE inhibitors. Final diagnosis: respiratory failure.",
+    "output": "respiratory failure in a patient with COPD, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 70-year-old female with a history of hypothyroidism presents with chest pain. Treated with ACE inhibitors. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with hypothyroidism, treated with ACE inhibitors."
+  },
+  {
+    "input": "Summarize the following note:\nA 59-year-old male with a history of heart failure presents with shortness of breath. Treated with statins. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with heart failure, treated with statins."
+  },
+  {
+    "input": "Summarize the following note:\nA 29-year-old female with a history of COPD presents with chest pain. Treated with metformin. Final diagnosis: myocardial infarction.",
+    "output": "myocardial infarction in a patient with COPD, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 46-year-old male with a history of diabetes presents with shortness of breath. Treated with oxygen. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with diabetes, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 59-year-old male with a history of renal failure presents with headache. Treated with oxygen. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with renal failure, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 54-year-old male with a history of hypothyroidism presents with weight loss. Treated with metformin. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with hypothyroidism, treated with metformin."
+  },
+  {
+    "input": "Summarize the following note:\nA 84-year-old male with a history of hypertension presents with fever. Treated with insulin. Final diagnosis: ischemic stroke.",
+    "output": "ischemic stroke in a patient with hypertension, treated with insulin."
+  },
+  {
+    "input": "Summarize the following note:\nA 80-year-old female with a history of heart failure presents with shortness of breath. Treated with oxygen. Final diagnosis: bacterial infection.",
+    "output": "bacterial infection in a patient with heart failure, treated with oxygen."
+  },
+  {
+    "input": "Summarize the following note:\nA 77-year-old female with a history of stroke presents with chest pain. Treated with insulin. Final diagnosis: septic shock.",
+    "output": "septic shock in a patient with stroke, treated with insulin."
+  },
+  {
+    "input": "Medical record: A 70-year-old female presents with dizziness. History of diabetes. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 69-year-old female presents with nausea. History of hypertension. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 54-year-old male presents with chest pain. History of COPD. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 37-year-old male presents with headache. History of sepsis. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 61-year-old female presents with headache. History of heart failure. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 81-year-old female presents with headache. History of sepsis. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 41-year-old male presents with fever. History of asthma. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 29-year-old female presents with fever. History of renal failure. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 26-year-old female presents with confusion. History of diabetes. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 70-year-old male presents with cough. History of hypothyroidism. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 35-year-old female presents with weight loss. History of heart failure. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 56-year-old female presents with chest pain. History of hypertension. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 68-year-old female presents with cough. History of COPD. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 26-year-old female presents with chest pain. History of COPD. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 69-year-old female presents with chest pain. History of pneumonia. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 76-year-old male presents with confusion. History of hypothyroidism. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 53-year-old female presents with weight loss. History of renal failure. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 39-year-old male presents with headache. History of renal failure. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 67-year-old female presents with headache. History of COPD. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 25-year-old female presents with confusion. History of hypertension. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 51-year-old female presents with headache. History of sepsis. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 72-year-old female presents with fever. History of stroke. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 85-year-old female presents with fever. History of diabetes. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 44-year-old male presents with fever. History of pneumonia. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 75-year-old female presents with chest pain. History of sepsis. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 56-year-old female presents with weight loss. History of hypertension. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 73-year-old male presents with headache. History of sepsis. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 72-year-old male presents with dizziness. History of sepsis. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 81-year-old female presents with fever. History of diabetes. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 41-year-old female presents with dizziness. History of stroke. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 70-year-old female presents with confusion. History of diabetes. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 69-year-old female presents with headache. History of COPD. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 56-year-old male presents with confusion. History of COPD. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 68-year-old male presents with chest pain. History of hypertension. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 48-year-old male presents with nausea. History of sepsis. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 32-year-old male presents with cough. History of COPD. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 71-year-old male presents with cough. History of asthma. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 81-year-old female presents with weight loss. History of pneumonia. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 76-year-old male presents with weight loss. History of renal failure. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 52-year-old female presents with fever. History of stroke. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 84-year-old female presents with fever. History of heart failure. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 65-year-old female presents with chest pain. History of hypothyroidism. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 41-year-old female presents with dizziness. History of COPD. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 47-year-old female presents with weight loss. History of pneumonia. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 34-year-old male presents with dizziness. History of heart failure. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 52-year-old female presents with cough. History of hypertension. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 46-year-old female presents with headache. History of hypertension. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 51-year-old female presents with cough. History of hypothyroidism. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 29-year-old female presents with weight loss. History of sepsis. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 42-year-old male presents with nausea. History of COPD. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 37-year-old male presents with fever. History of pneumonia. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 78-year-old male presents with nausea. History of renal failure. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 60-year-old male presents with nausea. History of COPD. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 75-year-old female presents with dizziness. History of hypothyroidism. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 46-year-old male presents with confusion. History of hypothyroidism. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 74-year-old male presents with dizziness. History of asthma. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 67-year-old male presents with fever. History of heart failure. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 60-year-old female presents with nausea. History of pneumonia. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 43-year-old female presents with dizziness. History of sepsis. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 58-year-old female presents with chest pain. History of pneumonia. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 81-year-old male presents with shortness of breath. History of renal failure. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 72-year-old male presents with confusion. History of heart failure. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 59-year-old male presents with fatigue. History of renal failure. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 66-year-old male presents with fever. History of hypothyroidism. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 26-year-old female presents with shortness of breath. History of diabetes. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 27-year-old female presents with weight loss. History of sepsis. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 36-year-old female presents with nausea. History of hypothyroidism. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 77-year-old male presents with weight loss. History of COPD. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 73-year-old male presents with confusion. History of hypertension. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 70-year-old male presents with nausea. History of sepsis. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 58-year-old female presents with shortness of breath. History of stroke. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 38-year-old male presents with dizziness. History of asthma. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 38-year-old female presents with cough. History of hypertension. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 62-year-old male presents with weight loss. History of sepsis. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 48-year-old male presents with shortness of breath. History of asthma. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 69-year-old female presents with shortness of breath. History of hypertension. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 82-year-old male presents with headache. History of sepsis. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 34-year-old female presents with chest pain. History of asthma. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 41-year-old female presents with fatigue. History of hypothyroidism. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 79-year-old female presents with shortness of breath. History of renal failure. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 70-year-old male presents with dizziness. History of renal failure. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 84-year-old female presents with nausea. History of heart failure. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 54-year-old male presents with cough. History of diabetes. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 52-year-old female presents with chest pain. History of asthma. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 25-year-old female presents with shortness of breath. History of diabetes. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 61-year-old female presents with nausea. History of pneumonia. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 36-year-old male presents with fatigue. History of asthma. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 46-year-old male presents with chest pain. History of pneumonia. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 25-year-old female presents with headache. History of heart failure. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 64-year-old male presents with headache. History of COPD. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 52-year-old male presents with confusion. History of renal failure. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 31-year-old male presents with chest pain. History of hypertension. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 82-year-old female presents with dizziness. History of diabetes. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 49-year-old male presents with fever. History of asthma. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 72-year-old male presents with fever. History of asthma. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 29-year-old male presents with headache. History of asthma. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 55-year-old female presents with nausea. History of pneumonia. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 57-year-old male presents with dizziness. History of renal failure. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 69-year-old female presents with weight loss. History of renal failure. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 58-year-old male presents with fever. History of hypertension. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 76-year-old female presents with nausea. History of heart failure. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 82-year-old female presents with cough. History of heart failure. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 85-year-old male presents with dizziness. History of hypothyroidism. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 61-year-old female presents with weight loss. History of pneumonia. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 59-year-old male presents with shortness of breath. History of hypertension. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 57-year-old male presents with weight loss. History of renal failure. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 71-year-old female presents with weight loss. History of asthma. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 33-year-old male presents with shortness of breath. History of hypothyroidism. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 31-year-old male presents with confusion. History of hypertension. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 37-year-old female presents with shortness of breath. History of hypothyroidism. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 32-year-old male presents with dizziness. History of heart failure. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 70-year-old male presents with cough. History of diabetes. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 39-year-old female presents with chest pain. History of heart failure. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 64-year-old female presents with nausea. History of heart failure. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 25-year-old male presents with fever. History of diabetes. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 61-year-old female presents with cough. History of diabetes. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 41-year-old male presents with fever. History of asthma. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 60-year-old female presents with weight loss. History of hypertension. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 74-year-old female presents with fever. History of asthma. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 45-year-old male presents with fever. History of pneumonia. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 48-year-old male presents with fever. History of heart failure. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 44-year-old male presents with chest pain. History of hypothyroidism. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 27-year-old male presents with fever. History of heart failure. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 53-year-old female presents with fatigue. History of stroke. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 43-year-old female presents with fatigue. History of pneumonia. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 60-year-old male presents with fever. History of asthma. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 71-year-old female presents with cough. History of hypertension. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 41-year-old female presents with confusion. History of diabetes. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 75-year-old female presents with cough. History of diabetes. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 77-year-old female presents with confusion. History of heart failure. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 54-year-old female presents with fatigue. History of hypothyroidism. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 82-year-old female presents with shortness of breath. History of stroke. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 30-year-old female presents with nausea. History of COPD. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 61-year-old male presents with confusion. History of sepsis. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 39-year-old male presents with cough. History of hypothyroidism. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 80-year-old female presents with weight loss. History of COPD. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 33-year-old male presents with headache. History of asthma. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 27-year-old female presents with cough. History of pneumonia. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 67-year-old female presents with nausea. History of sepsis. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 61-year-old female presents with dizziness. History of renal failure. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 58-year-old male presents with dizziness. History of asthma. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 55-year-old female presents with confusion. History of stroke. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 52-year-old female presents with fever. History of pneumonia. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 63-year-old male presents with confusion. History of stroke. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 66-year-old male presents with confusion. History of diabetes. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 41-year-old male presents with fatigue. History of sepsis. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 29-year-old male presents with shortness of breath. History of heart failure. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 33-year-old female presents with fatigue. History of COPD. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 79-year-old female presents with fatigue. History of asthma. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 44-year-old female presents with headache. History of hypertension. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 25-year-old male presents with chest pain. History of hypertension. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 48-year-old female presents with weight loss. History of pneumonia. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 79-year-old female presents with confusion. History of stroke. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 25-year-old female presents with chest pain. History of heart failure. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 69-year-old male presents with headache. History of renal failure. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 65-year-old female presents with confusion. History of hypertension. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 31-year-old male presents with cough. History of sepsis. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 57-year-old male presents with chest pain. History of hypertension. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 38-year-old female presents with fatigue. History of hypertension. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 79-year-old female presents with confusion. History of sepsis. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 57-year-old female presents with confusion. History of heart failure. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 53-year-old female presents with weight loss. History of renal failure. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 73-year-old male presents with cough. History of pneumonia. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 54-year-old female presents with fever. History of pneumonia. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 55-year-old male presents with shortness of breath. History of renal failure. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 33-year-old female presents with dizziness. History of asthma. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 43-year-old female presents with cough. History of asthma. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 30-year-old female presents with dizziness. History of renal failure. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 53-year-old male presents with dizziness. History of asthma. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 49-year-old female presents with fever. History of stroke. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 84-year-old male presents with cough. History of COPD. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 80-year-old male presents with cough. History of pneumonia. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 32-year-old female presents with cough. History of asthma. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 74-year-old male presents with nausea. History of asthma. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 25-year-old male presents with cough. History of stroke. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 69-year-old female presents with cough. History of hypothyroidism. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 83-year-old male presents with shortness of breath. History of asthma. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 83-year-old male presents with nausea. History of sepsis. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 36-year-old female presents with fever. History of hypothyroidism. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 36-year-old female presents with headache. History of renal failure. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 47-year-old female presents with weight loss. History of diabetes. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 39-year-old male presents with fatigue. History of heart failure. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 75-year-old male presents with confusion. History of hypothyroidism. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 76-year-old male presents with shortness of breath. History of pneumonia. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 55-year-old female presents with fatigue. History of asthma. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 26-year-old female presents with fever. History of asthma. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 55-year-old female presents with dizziness. History of diabetes. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 71-year-old male presents with fever. History of renal failure. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 76-year-old male presents with headache. History of pneumonia. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 59-year-old male presents with shortness of breath. History of hypertension. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 44-year-old male presents with fatigue. History of asthma. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 56-year-old female presents with fever. History of hypertension. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 85-year-old male presents with nausea. History of stroke. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 44-year-old male presents with fatigue. History of hypertension. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 76-year-old male presents with cough. History of diabetes. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 84-year-old male presents with nausea. History of stroke. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 32-year-old female presents with dizziness. History of renal failure. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 50-year-old female presents with fatigue. History of pneumonia. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 44-year-old male presents with confusion. History of stroke. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 63-year-old female presents with shortness of breath. History of hypertension. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 48-year-old male presents with dizziness. History of renal failure. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 54-year-old female presents with weight loss. History of diabetes. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 61-year-old male presents with shortness of breath. History of renal failure. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 47-year-old female presents with weight loss. History of renal failure. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 80-year-old male presents with chest pain. History of COPD. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 28-year-old male presents with dizziness. History of asthma. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 79-year-old male presents with weight loss. History of pneumonia. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 74-year-old female presents with shortness of breath. History of pneumonia. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 39-year-old female presents with nausea. History of hypertension. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 37-year-old female presents with weight loss. History of stroke. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 83-year-old female presents with fever. History of hypothyroidism. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 40-year-old male presents with cough. History of heart failure. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 26-year-old male presents with dizziness. History of diabetes. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 47-year-old male presents with headache. History of heart failure. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 25-year-old female presents with fever. History of asthma. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 46-year-old male presents with fever. History of renal failure. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 78-year-old male presents with dizziness. History of pneumonia. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 80-year-old female presents with headache. History of stroke. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 73-year-old male presents with fever. History of stroke. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 76-year-old male presents with nausea. History of hypertension. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 36-year-old female presents with fatigue. History of COPD. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 43-year-old male presents with dizziness. History of diabetes. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 25-year-old female presents with dizziness. History of asthma. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 53-year-old female presents with confusion. History of hypertension. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 31-year-old male presents with weight loss. History of diabetes. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 78-year-old female presents with cough. History of asthma. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 41-year-old male presents with confusion. History of hypertension. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 26-year-old female presents with confusion. History of pneumonia. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 70-year-old male presents with dizziness. History of heart failure. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 57-year-old male presents with weight loss. History of asthma. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 46-year-old female presents with headache. History of stroke. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 76-year-old male presents with cough. History of hypertension. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 57-year-old male presents with fatigue. History of sepsis. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 28-year-old male presents with fever. History of sepsis. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 58-year-old male presents with weight loss. History of hypothyroidism. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 71-year-old female presents with nausea. History of diabetes. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 81-year-old male presents with fever. History of pneumonia. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 26-year-old male presents with shortness of breath. History of asthma. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 46-year-old male presents with fever. History of diabetes. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 27-year-old male presents with cough. History of sepsis. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 82-year-old male presents with dizziness. History of hypothyroidism. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 37-year-old female presents with shortness of breath. History of hypertension. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 82-year-old male presents with chest pain. History of heart failure. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 78-year-old male presents with confusion. History of sepsis. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 64-year-old male presents with fever. History of diabetes. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 70-year-old female presents with fever. History of pneumonia. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 74-year-old female presents with dizziness. History of hypothyroidism. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 41-year-old female presents with headache. History of asthma. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 51-year-old female presents with dizziness. History of renal failure. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 74-year-old male presents with cough. History of diabetes. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 51-year-old female presents with weight loss. History of pneumonia. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 68-year-old female presents with cough. History of hypertension. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 30-year-old male presents with cough. History of asthma. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 65-year-old female presents with fatigue. History of stroke. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 36-year-old male presents with chest pain. History of renal failure. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 31-year-old female presents with dizziness. History of hypothyroidism. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 27-year-old male presents with chest pain. History of stroke. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 25-year-old male presents with confusion. History of hypothyroidism. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 40-year-old male presents with weight loss. History of asthma. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 41-year-old male presents with confusion. History of hypertension. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 42-year-old male presents with dizziness. History of hypertension. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 63-year-old male presents with chest pain. History of asthma. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 49-year-old female presents with fatigue. History of stroke. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 69-year-old female presents with nausea. History of pneumonia. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 41-year-old male presents with confusion. History of sepsis. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 49-year-old male presents with headache. History of renal failure. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 25-year-old male presents with fever. History of heart failure. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 34-year-old male presents with chest pain. History of sepsis. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 62-year-old male presents with headache. History of hypothyroidism. Treated with metformin.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 65-year-old female presents with chest pain. History of stroke. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 50-year-old male presents with fatigue. History of COPD. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 30-year-old male presents with shortness of breath. History of COPD. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 39-year-old female presents with fatigue. History of pneumonia. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 54-year-old male presents with shortness of breath. History of heart failure. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 82-year-old female presents with dizziness. History of pneumonia. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 67-year-old female presents with headache. History of sepsis. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  },
+  {
+    "input": "Medical record: A 77-year-old female presents with chest pain. History of pneumonia. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 49-year-old female presents with weight loss. History of pneumonia. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 66-year-old female presents with weight loss. History of diabetes. Treated with insulin.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 52-year-old male presents with cough. History of pneumonia. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 82-year-old female presents with chest pain. History of pneumonia. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 47-year-old female presents with fever. History of sepsis. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 41-year-old male presents with cough. History of hypertension. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 75-year-old male presents with headache. History of hypothyroidism. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 50-year-old male presents with weight loss. History of hypothyroidism. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 37-year-old female presents with fever. History of sepsis. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 78-year-old male presents with weight loss. History of sepsis. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 41-year-old female presents with headache. History of renal failure. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 76-year-old male presents with shortness of breath. History of COPD. Treated with aspirin.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 83-year-old female presents with fatigue. History of hypothyroidism. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 54-year-old male presents with fatigue. History of asthma. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 74-year-old female presents with fever. History of hypothyroidism. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 47-year-old female presents with shortness of breath. History of pneumonia. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 82-year-old male presents with dizziness. History of heart failure. Treated with ACE inhibitors.\nQuestion: What is the likely diagnosis?",
+    "output": "bacterial infection"
+  },
+  {
+    "input": "Medical record: A 68-year-old male presents with headache. History of stroke. Treated with oxygen.\nQuestion: What is the likely diagnosis?",
+    "output": "respiratory failure"
+  },
+  {
+    "input": "Medical record: A 57-year-old female presents with fatigue. History of hypothyroidism. Treated with statins.\nQuestion: What is the likely diagnosis?",
+    "output": "ischemic stroke"
+  },
+  {
+    "input": "Medical record: A 39-year-old female presents with nausea. History of renal failure. Treated with antibiotics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 72-year-old male presents with fatigue. History of heart failure. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "myocardial infarction"
+  },
+  {
+    "input": "Medical record: A 65-year-old male presents with dizziness. History of heart failure. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "septic shock"
+  },
+  {
+    "input": "Medical record: A 58-year-old female presents with nausea. History of renal failure. Treated with diuretics.\nQuestion: What is the likely diagnosis?",
+    "output": "thyroid disorder"
+  }
+]
